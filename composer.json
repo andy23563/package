@@ -1,0 +1,19 @@
+{
+    "name": "accuhit/invoice",
+    "description": "Laravel 發票模組開發",
+    "require": {
+        "php": ">=8.1",
+        "laravel/framework": ">=8.83"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Accuhit\\Invoice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Accuhit"
+        }
+    ]
+}
